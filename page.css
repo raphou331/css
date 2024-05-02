@@ -1,0 +1,65 @@
+h1 {
+    color: brown;
+}
+
+#monid {
+    font-weight: bold;
+    margin: 2rem;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: 4px solid red;
+    border-radius: 10px;
+}
+
+.maclass {
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-image: url(vue-verticale-du-celebre-rocher-plage-santa-giulia_268835-3733.jpg);
+    background-size: cover;
+}
+
+p {
+    text-align: center;
+    text-transform: uppercase;
+    /* css alignement */
+}
+
+h2 {
+    text-decoration: underline;
+}
+ /* 
+.cercle {
+    width: 300px;
+    height: 300px;
+    border: 1rem solid yellow;
+    border-radius: 50%;
+    margin: auto;
+   pour fair un cercle 
+} */
+
+.bleu {
+    width: 50px;
+    height: 100px;
+    background-color: blue;
+}
+
+.blanc {
+    width: 50px;
+    height: 100px;
+    background-color: aliceblue;
+}
+
+.rouge {
+    width: 50px;
+    height: 100px;
+    background-color: red;
+}
+
+#drapeau {
+    display: flex;
+    justify-content: center;
+    /* pour mettre le bloc au milieu */
+}
